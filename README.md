@@ -1,6 +1,8 @@
 # Traffic_Signal_using_Finite_State_Machine
  Design & Implementation of Two way Traffic Signal using Finite State Machine
 
+#### pdf- 
+[Mini Project Report .pdf](https://github.com/user-attachments/files/19934923/Mini.Project.Report.pdf)
 
  ### Objective The main objective of this and implement practical two way traffic signal using the concept of of finite State machine and design it on prointed Circuit board.
 #
